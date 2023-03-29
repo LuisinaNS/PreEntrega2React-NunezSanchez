@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(141, 141, 137);
+  color: rgb(38, 8, 64);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
